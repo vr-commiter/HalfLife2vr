@@ -1,0 +1,81 @@
+PistolShootRVest			手枪射击
+PistolShootLVest
+PistolShootRArms
+PistolShootLArms
+
+RevolverShootRVest			左轮
+RevolverShootLVest
+RevolverShootRArms
+RevolverShootLArms
+
+SMGShootRVest			冲锋枪？
+SMGShootLVest
+SMGShootRArms
+SMGShootLArms
+
+SMGShootSecondaryRVest		像冲锋枪二段？
+SMGShootSecondaryLVest
+SMGShootSecondaryRArms
+SMGShootSecondaryLArms
+
+AR2ShootRVest			不知道啥枪
+AR2ShootLVest
+AR2ShootRArms
+AR2ShootLArms
+
+AR2ShootSecondaryRVest		也是
+AR2ShootSecondaryLVest
+AR2ShootSecondaryRArms
+AR2ShootSecondaryLArms
+
+
+ShotgunShootRVest			霰弹
+ShotgunShootLVest
+ShotgunShootRArms
+ShotgunShootLArms
+
+
+RPGShootRVest			火箭炮
+RPGShootLVest
+RPGShootRArms
+RPGShootLArms
+
+
+CrossbowShootRVest		十字弩
+CrossbowShootLVest
+CrossbowShootRArms
+CrossbowShootLArms
+
+
+CrowbarSwingRVest			挥舞撬棍
+CrowbarSwingLVest
+CrowbarSwingRArms
+CrowbarSwingLArms
+
+
+GravGunShootRVest			格拉夫
+GravGunShootLVest
+GravGunShootRArms
+GravGunShootLArms
+
+
+StationaryGunShootRVest		不知道啥枪
+StationaryGunShootLVest		
+StationaryGunShootRArms
+StationaryGunShootLArms
+
+
+HitByBulletVest			子弹伤害（有方向）
+HitBySniperVest
+HitByBuckshotVest
+HitByMeleeVest
+HitByExplosionVest			爆炸（有方向）
+
+LandingVest			着陆
+BurningVest			燃烧
+DrowningVest			水下
+ConsumeHealthVest			不知道啥
+ConsumeBatteryVest			不知道啥
+VehicleCollisionVest			交通工具碰撞
+
+
